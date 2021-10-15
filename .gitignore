@@ -1,0 +1,29 @@
+# pycharm
+.idea
+
+# virtual env
+.venv
+venv*
+ENV/
+
+#MacOS
+.DS_Store
+
+# ignore any directories desginated for data
+data
+
+# ignore any directoreis designated for exported models
+registry
+
+# notebook stuff
+.ipynb_checkpoints
+
+# python stuff
+__pycache__
+.python-version
+
+# Spyder stuff
+.spyderproject
+
+# build_push_automate.sh output
+build_final.yaml 
