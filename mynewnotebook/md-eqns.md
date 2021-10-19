@@ -1,5 +1,3 @@
-Equation is $f(x) = y^2$
-
 ## Equations in Jupyter
 Jupyter uses Latex based formatting for equations.
 
