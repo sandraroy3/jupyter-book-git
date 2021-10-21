@@ -6,7 +6,7 @@ Example:
 The quadratic equation : $Ax^2 + Bx + C = 0 $
 
 The solution is :
-$$  x = \frac{-B \pm \sqrt{B^2 - 4AC}}{2A} $$
+$ x = \frac{-B \pm \sqrt{B^2 - 4AC}}{2A} $
 
 ## Schrodinger wave equation
 The equation of motion of quantum mechanics for a particle is given by the Schrödinger equation
